@@ -10,6 +10,9 @@ public class Main {
       System.out.println("New Hello World!");
 
       System.out.println("New Hello Worldsssssss!");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
 
     }
 }
